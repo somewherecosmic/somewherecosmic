@@ -25,4 +25,4 @@ Here are some ideas to get you started:
   - OS & Embedded Systems
 
 <p>Feel free to reach out to me for any collab opportunities or projects of interest. </p>
-**[LinkedIn](https://www.linkedin.com/in/ethan-hall-461b78222/)**.
+[Markdown Guide](https://www.markdownguide.org)
