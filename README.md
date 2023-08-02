@@ -25,4 +25,4 @@ Here are some ideas to get you started:
   - OS & Embedded Systems
 
 <p>Feel free to reach out to me for any collab opportunities or projects of interest. </p>
-[I'm an inline-style link](https://www.google.com)
+[LinkedIn]
