@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   - DSA & interview prep
   - Audio signal processing project (guitar tuning)
 - 🔎 Currently learning:
-  - Spring Framework
+  - Go for Network Programming & Concurrency
   - Math for ML
   - OS & Embedded Systems
 
